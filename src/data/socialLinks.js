@@ -7,7 +7,7 @@ export const socialLinks = [
   },
   {
     id: 'telegram',
-    href: 'https://t.me/annquietlyme/',
+    href: 'https://t.me/annquietly/',
     labelKey: 'links.telegram',
     external: true,
   },
