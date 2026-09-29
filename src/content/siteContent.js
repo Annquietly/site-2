@@ -474,7 +474,7 @@ export const resources = {
       },
     },
     home: {
-      eyebrow: "Open to collaboration · 2026",
+      eyebrow: "Open to collaboration · Dubai · 2026",
       titleAria: "Hello, I’m Anya graphic designer",
       hello: "Hello,",
       name: "I’m Anya",
